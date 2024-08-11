@@ -1,1 +1,1 @@
-# KTH-Papers-Reports
+Throughout my BSc studies at KTH, I had the opportunity to write several papers, lab reports and seminars. Therefore, I have created this repository exclusively for this type of files so that you as a reader can get better accustomed with my work and study approaches.
